@@ -62,7 +62,7 @@ nav a:hover {
 .banner {
     display: flex;
     flex-direction: inherit;
-    background-image: url("images/bg2.jpg");
+    background-image: url("./images/bg2.jpg");
     height: 50vh;
     margin: 50px 40px;
     border-radius: 20px;
